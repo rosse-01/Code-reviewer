@@ -1,0 +1,18 @@
+# Core Deep Learning Framework
+torch>=2.2.0
+
+# Hugging Face Ecosystem 
+transformers>=4.40.0
+peft>=0.10.0
+accelerate>=0.29.0
+trl>=0.8.0
+huggingface_hub>=0.22.0
+
+# Quantization & Performance Optimization
+bitsandbytes>=0.43.0
+torchao>=0.16.0
+
+# Experiment Tracking & Utilities
+wandb>=0.16.0
+scipy>=1.12.0
+sentencepiece>=0.2.0
